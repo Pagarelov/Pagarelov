@@ -9,5 +9,5 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pagarelov&theme=dark)](https://git.io/streak-stats)
-</br>
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pagarelov_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
