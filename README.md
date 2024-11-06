@@ -5,8 +5,11 @@
 </div>
 <div>
   ### :woman_technologist: About Me :
+  </br>
   I am Vladimir Vladimirovich Pagarelov, a student of the Kuban State University, Faculty of Physics and Technology.
+  </br>
   A beginner Unreal Engine developer. 
+  </br>
   ### :hammer_and_wrench: Languages and Tools :
   </br>
   HTML/CSS
