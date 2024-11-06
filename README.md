@@ -20,4 +20,4 @@
 </div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pagarelov&theme=dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats-Dark]([https://github-readme-stats.vercel.app/api?username=Pagarelov_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://streak-stats.demolab.com/?user=Pagarelov&theme=dark)%5D(https://git.io/streak-stats))
+[![Anurag's GitHub stats-Dark]([![GitHub Streak](https://streak-stats.demolab.com/?user=Pagarelov)](https://git.io/streak-stats))
