@@ -5,9 +5,12 @@
   
 </div>
 ### :woman_technologist: About Me :
-
+I am Vladimir Vladimirovich Pagarelov, a student of the Kuban State University, Faculty of Physics and Technology.
+A beginner Unreal Engine developer. 
 ### :hammer_and_wrench: Languages and Tools :
-
+HTML/CSS
+JavaScript
+C++
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pagarelov&theme=dark)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pagarelov_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
