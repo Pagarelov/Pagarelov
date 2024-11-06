@@ -18,6 +18,5 @@
   </br>
   C++
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pagarelov&theme=dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats-Dark]([![GitHub Streak](https://streak-stats.demolab.com/?user=Pagarelov)](https://git.io/streak-stats))
+[![Anurag's GitHub stats-Dark]([![GitHub Streak](https://streak-stats.demolab.com/?user=Pagarelov&theme=dark)](https://git.io/streak-stats))
