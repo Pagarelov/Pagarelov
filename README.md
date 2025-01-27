@@ -8,7 +8,7 @@
   </br>
   I am Vladimir Vladimirovich Pagarelov, a student of the Kuban State University, Faculty of Physics and Technology.
   </br>
-  A beginner <h3>Frontend</h3> developer. 
+  A beginner <b>Frontend</b> developer. 
   </br>
   ### :hammer_and_wrench: Languages and Tools :
   </br>
